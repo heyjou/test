@@ -6,6 +6,7 @@ public class prueba1 {
         System.out.println("hola");
         System.out.println("que tal");
         System.out.println("andamios");
+        System.out.println("suspendidos");
     }
 
 }
